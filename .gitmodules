@@ -1,0 +1,12 @@
+[submodule "atemr_tools"]
+	path = atemr_tools
+	url = git@github.com:LCP-WORKS/atemr_tools.git
+[submodule "atemr_description"]
+	path = atemr_description
+	url = git@github.com:LCP-WORKS/atemr_description.git
+[submodule "atemr_control"]
+	path = atemr_control
+	url = git@github.com:LCP-WORKS/atemr_control.git
+[submodule "atemr_hardware"]
+	path = atemr_hardware
+	url = git@github.com:LCP-WORKS/atemr_hardware.git
