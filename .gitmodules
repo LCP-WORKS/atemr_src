@@ -10,3 +10,6 @@
 [submodule "atemr_hardware"]
 	path = atemr_hardware
 	url = git@github.com:LCP-WORKS/atemr_hardware.git
+[submodule "atemr_msgs"]
+	path = atemr_msgs
+	url = git@github.com:LCP-WORKS/atemr_msgs.git
