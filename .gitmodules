@@ -13,3 +13,9 @@
 [submodule "atemr_msgs"]
 	path = atemr_msgs
 	url = git@github.com:LCP-WORKS/atemr_msgs.git
+[submodule "atemr_simulation"]
+	path = atemr_simulation
+	url = git@github.com:LCP-WORKS/atemr_simulation.git
+[submodule "atemr_nav"]
+	path = atemr_nav
+	url = git@github.com:LCP-WORKS/atemr_nav.git
