@@ -19,3 +19,6 @@
 [submodule "atemr_nav"]
 	path = atemr_nav
 	url = git@github.com:LCP-WORKS/atemr_nav.git
+[submodule "atemr_localization"]
+	path = atemr_localization
+	url = git@github.com:LCP-WORKS/atemr_localization.git
