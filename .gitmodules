@@ -22,3 +22,12 @@
 [submodule "atemr_localization"]
 	path = atemr_localization
 	url = git@github.com:LCP-WORKS/atemr_localization.git
+[submodule "atemr_web_ui"]
+	path = atemr_web_ui
+	url = git@github.com:LCP-WORKS/atemr_web_ui.git
+[submodule "atemr_dbus"]
+	path = atemr_dbus
+	url = git@github.com:LCP-WORKS/atemr_dbus.git
+[submodule "atemr_agent"]
+	path = atemr_agent
+	url = git@github.com:LCP-WORKS/atemr_agent.git
